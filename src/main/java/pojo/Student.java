@@ -6,7 +6,7 @@ package pojo;
  * Date: Created in 2019/11/10 21:59
  **/
 public class Student {
-    private String name;
+    private String name;//姓名
     private int age;
     private int score;
 

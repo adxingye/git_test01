@@ -6,10 +6,10 @@ package pojo;
  * Date: Created in 2019/11/10 21:59
  **/
 public class Student {
-    private String name;
-    private int age;
-    private int score;
-    private String address;	
+    private String name;//姓名
+    private int age;//年龄
+    private int score;//分数
+    private String address;//地址	
 
     public int getScore() {
         return score;

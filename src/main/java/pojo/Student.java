@@ -7,7 +7,7 @@ package pojo;
  **/
 public class Student {
     private String name;//姓名
-    private int age;
+    private int age;//年龄
     private int score;
 
     public int getScore() {

@@ -23,7 +23,7 @@ public class Student {
         return address;
     }
 
-    public void setAddressString address) {
+    public void setAddress(String address) {
         this.address = address;
     }	
 

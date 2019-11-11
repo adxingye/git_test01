@@ -4,11 +4,12 @@ package pojo;
  * Package: pojo
  * Author: ad
  * Date: Created in 2019/11/10 21:59
+ * 学生
  **/
 public class Student {
     private String name;//姓名
     private int age;//年龄
-    private int score;
+    private int score;//分数
 
     public int getScore() {
         return score;

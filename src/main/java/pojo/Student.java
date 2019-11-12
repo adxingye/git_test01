@@ -4,7 +4,7 @@ package pojo;
  * Package: pojo
  * Author: ad
  * Date: Created in 2019/11/10 21:59
- * 学生
+ * 学生生
  **/
 public class Student {
     private String name;//姓名
